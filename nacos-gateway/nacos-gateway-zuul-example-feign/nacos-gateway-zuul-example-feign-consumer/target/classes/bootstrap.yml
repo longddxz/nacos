@@ -1,0 +1,23 @@
+server:
+  port: 20093
+
+#server name
+feignServer:
+  application:
+    name: nacos-gateway-zuul-example-feign-provider
+
+nacos:
+  server-addr: 127.0.0.1:8848
+  namespace: ae89a87f-7f99-4a0a-b31e-e6e08703ffaa
+spring:
+  application:
+    name: nacos-gateway-zuul-example-feign-consumer
+  cloud:
+    nacos:
+      config:
+        server-addr: ${nacos.server-addr}
+        namespace: ${nacos.namespace}
+        file-extension: yml
+      discovery:
+        server-addr: ${nacos.server-addr}
+        namespace: ${nacos.namespace}

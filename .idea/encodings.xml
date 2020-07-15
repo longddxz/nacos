@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign-consumer/src/main/resources/bootstrap.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign-provider/src/main/resources/bootstrap.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon-consumer/src/main/resources/bootstrap.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon-provider/src/main/resources/bootstrap.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul/src/main/resources/bootstrap.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/nacos-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-provider/src/main/resources/bootstrap.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/nacos-provider/target/classes/bootstrap.yml" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

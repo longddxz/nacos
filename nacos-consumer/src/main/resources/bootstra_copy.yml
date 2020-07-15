@@ -1,0 +1,24 @@
+server:
+  port: 28082
+
+nacos:
+  server-addr: 127.0.0.1
+  namespace: ae89a87f-7f99-4a0a-b31e-e6e08703ffaa
+
+#此处读取的dataId为nacos-config.yml，格式是${spring.cloud.nacos.config.prefix}-{spring.profile.active}.{spring.cloud.nacos.config.file-extension}
+#默认读取的${spring.application.name}-{spring.profile.active}.{spring.cloud.nacos.config.file-extension}
+spring:
+  application:
+    name: nacos-consumer
+  cloud:
+    nacos:
+      config:
+        server-addr: ${nacos.server-addr}
+        file-extension: yml
+        namespace: ${nacos.namespace}
+#        spring.cloud.nacos.config.prefix此属性可以配置nacos访问的配置文件前缀，默认是spring.applicaiton.name的值
+#        prefix: nacos-provider
+#        prefix: nacos-consumer
+      discovery:
+        server-addr: ${nacos.server-addr}
+        namespace: ${nacos.namespace}

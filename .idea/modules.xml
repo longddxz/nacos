@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacos-common/nacos-common.iml" filepath="$PROJECT_DIR$/nacos-common/nacos-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-config/nacos-config.iml" filepath="$PROJECT_DIR$/nacos-config/nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-consumer/nacos-consumer.iml" filepath="$PROJECT_DIR$/nacos-consumer/nacos-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-demo.iml" filepath="$PROJECT_DIR$/nacos-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway.iml" filepath="$PROJECT_DIR$/nacos-gateway/nacos-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul/nacos-gateway-zuul.iml" filepath="$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul/nacos-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign.iml" filepath="$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign-consumer/nacos-gateway-zuul-example-feign-consumer.iml" filepath="$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign-consumer/nacos-gateway-zuul-example-feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign-provider/nacos-gateway-zuul-example-feign-provider.iml" filepath="$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-feign/nacos-gateway-zuul-example-feign-provider/nacos-gateway-zuul-example-feign-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon.iml" filepath="$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon-consumer/nacos-gateway-zuul-example-ribbon-consumer.iml" filepath="$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon-consumer/nacos-gateway-zuul-example-ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon-provider/nacos-gateway-zuul-example-ribbon-provider.iml" filepath="$PROJECT_DIR$/nacos-gateway/nacos-gateway-zuul-example-ribbon/nacos-gateway-zuul-example-ribbon-provider/nacos-gateway-zuul-example-ribbon-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-provider/nacos-provider.iml" filepath="$PROJECT_DIR$/nacos-provider/nacos-provider.iml" />
+    </modules>
+  </component>
+</project>
