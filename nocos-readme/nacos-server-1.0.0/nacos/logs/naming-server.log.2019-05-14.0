@@ -1,0 +1,30 @@
+2019-05-14 15:01:56,576 INFO listen for service meta change
+
+2019-05-14 15:02:01,136 INFO [SERVER-INIT] got port: 8848
+
+2019-05-14 15:02:01,136 INFO [SERVER-INIT] got path: /nacos
+
+2019-05-14 15:02:01,354 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-05-14 15:02:29,742 INFO [HEALTH-CHECK] health check is false
+
+2019-05-14 15:03:01,359 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-05-14 15:07:29,743 INFO [HEALTH-CHECK] health check is true
+
+2019-05-14 15:12:29,743 INFO [HEALTH-CHECK] health check is true
+
+2019-05-14 15:17:29,744 INFO [HEALTH-CHECK] health check is true
+
+2019-05-14 15:22:29,745 INFO [HEALTH-CHECK] health check is true
+
+2019-05-14 15:27:29,747 INFO [HEALTH-CHECK] health check is true
+
+2019-05-14 15:32:29,749 INFO [HEALTH-CHECK] health check is true
+
+2019-05-14 15:37:29,750 INFO [HEALTH-CHECK] health check is true
+
+2019-05-14 15:42:29,751 INFO [HEALTH-CHECK] health check is true
+
+2019-05-14 15:47:29,753 INFO [HEALTH-CHECK] health check is true
+

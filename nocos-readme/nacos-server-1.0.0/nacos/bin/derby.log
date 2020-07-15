@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 28 11:21:45 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-016a-fc75-4779-000019c45d58 
+on database directory D:\nacos\nacos-server-1.0.0\nacos\data\derby-data with class loader org.springframework.boot.loader.LaunchedURLClassLoader@31cefde0 
+Loaded from jar:file:/D:/nacos/nacos-server-1.0.0/nacos/target/nacos-server.jar!/BOOT-INF/lib/derby-10.10.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=D:\nacos\nacos-server-1.0.0\nacos\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

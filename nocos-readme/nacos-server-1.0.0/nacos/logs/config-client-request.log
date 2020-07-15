@@ -1,0 +1,13 @@
+2019-05-28 11:23:13,117|191|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|7d57f58d456f2c551d85bee38387af3b|null
+2019-05-28 14:32:13,169|11|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul-example-ribbon-provider.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|c1f4674c062f70e92303875f10385848|null
+2019-05-28 14:32:30,776|226|true|0:0:0:0:0:0:0:1|publish|nacos-provider.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|c1f4674c062f70e92303875f10385848|null
+2019-05-28 14:32:40,703|17|true|0:0:0:0:0:0:0:1|publish|nacos-consumer.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|c1f4674c062f70e92303875f10385848|null
+2019-05-28 14:32:51,804|12|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|c1f4674c062f70e92303875f10385848|null
+2019-05-28 14:33:38,850|5|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul-example-ribbon-consumer.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|c1f4674c062f70e92303875f10385848|null
+2019-05-28 14:34:38,344|7|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul-example-feign-provider.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|c1f4674c062f70e92303875f10385848|null
+2019-05-28 14:35:05,468|5|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul-example-feign-consumer.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|c1f4674c062f70e92303875f10385848|null
+2019-05-28 14:59:10,701|16|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul-example-feign-consumer.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|4afe991ac339d515b92a211690d65d5a|null
+2019-05-28 15:06:11,220|17|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul-example-feign-consumer.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|4801862a2906603f9be346fda14d1d96|null
+2019-05-28 15:07:58,715|18|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul-example-feign-consumer.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|20ff90bfdf452f3e701a4a5778f142c3|null
+2019-05-28 16:23:23,586|17|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul-example-feign-consumer.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|d06d5ac684d6b1b408de7739f3bfbe07|null
+2019-05-28 16:52:18,553|20|true|0:0:0:0:0:0:0:1|publish|nacos-gateway-zuul.yml|DEFAULT_GROUP|ae89a87f-7f99-4a0a-b31e-e6e08703ffaa|4a1ae55eb44bcf552d6f9e09dfb092d6|null
